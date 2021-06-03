@@ -21,3 +21,5 @@ In this extractor, there are ten different descriptors that cover a large span o
 How it works : 
 - choose an input signal with the radiogroup object (mic, noise or sound file)
 - activate the extraction by clicking on the toggle box above the ircamdescriptors~ object
+
+You can download the project at this address :https://github.com/nicolasbrochec/wek-feature-extractor/
